@@ -1,0 +1,5 @@
+{
+    "code-runner.executorMap": {
+        "cpp": "g++ -Iinclude app.cpp -o app \"-Wl,--enable-auto-import\" -lcurl"
+    }
+}
